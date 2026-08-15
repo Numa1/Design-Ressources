@@ -339,10 +339,4 @@ We welcome contributions to make this resource list even more valuable!
 
 ---
 
-## 🙏 Credits
-
-This list is based on [awesome-ui-resources](https://github.com/al-husayn/awesome-ui-resources), originally created and maintained with ❤️ by [Al-Hussein](https://www.al-husayn.dev/). Redistributed under the MIT License — see [LICENSE](LICENSE).
-
----
-
 *Curated and shared by [Numa](https://github.com/Numa1)*
