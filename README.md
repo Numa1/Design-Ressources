@@ -2,6 +2,8 @@
 
 A beautifully organized collection of modern UI resources, thoughtfully categorized for better discovery and usability.
 
+> 🔄 **Actively maintained** — new resources are added regularly as I find them. Star the repo to keep up, and feel free to open an issue or a PR to suggest one.
+
 ---
 
 ## 📑 Table of Contents
@@ -118,6 +120,7 @@ Libraries and tools for creating engaging animations and interactions.
 
 | Preview | Name | Description | Link |
 | :--- | :--- | :--- | :--- |
+| <img src="images/amicro.png" width="120" alt="Amicro"/> | **Amicro** | Curated library of premium micro-interactions and transition components, built with React and Motion | [Visit](https://amicro.vercel.app/) |
 | <img src="images/animate-ui.png" width="120" alt="Animate UI"/> | **Animate UI** | Pre-built, animated UI components | [Visit](https://animate-ui.com/) |
 | <img src="images/magic-ui.png" width="120" alt="Magic UI"/> | **Magic UI** | Animations and micro-interactions for React | [Visit](https://magicui.design/) |
 | <img src="images/animejs.png" width="120" alt="AnimeJS"/> | **AnimeJS** | All-in-one JavaScript animation engine | [Visit](https://animejs.com/) |
