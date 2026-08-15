@@ -1,4 +1,4 @@
-# 🌟 Modern UI & Design Resources Hub
+# 🌟 Design Ressources
 
 A beautifully organized collection of modern UI resources, thoughtfully categorized for better discovery and usability.
 
@@ -6,7 +6,7 @@ A beautifully organized collection of modern UI resources, thoughtfully categori
 
 ## 📑 Table of Contents
 
-- [🌟 Modern UI \& Design Resources Hub](#-modern-ui--design-resources-hub)
+- [🌟 Design Ressources](#-design-ressources)
   - [📑 Table of Contents](#-table-of-contents)
   - [🎨 UI Libraries \& Components](#-ui-libraries--components)
   - [🚀 Animation \& Interaction](#-animation--interaction)
@@ -339,4 +339,10 @@ We welcome contributions to make this resource list even more valuable!
 
 ---
 
-*Maintained with ❤️ by [Al-Hussein](https://www.al-husayn.dev/)*
+## 🙏 Credits
+
+This list is based on [awesome-ui-resources](https://github.com/al-husayn/awesome-ui-resources), originally created and maintained with ❤️ by [Al-Hussein](https://www.al-husayn.dev/). Redistributed under the MIT License — see [LICENSE](LICENSE).
+
+---
+
+*Curated and shared by [Numa](https://github.com/Numa1)*
