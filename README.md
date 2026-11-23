@@ -216,6 +216,7 @@ Collections of icons, SVGs, and design assets.
 | :--- | :--- | :--- | :--- |
 | <img src="images/lucide.png" width="120" alt="Lucide"/> | **Lucide Icons** | Open-source, consistent icon set | [Visit](https://lucide.dev/) |
 | <img src="images/pattern-craft.png" width="120" alt="Pattern Craft"/> | **Pattern Craft** | Beautiful backgrounds and patterns | [Visit](https://patterncraft.fun/) |
+| <img src="images/pixelarthive.png" width="120" alt="PixelArtHive image converter"/> | **PixelArtHive** | Free browser-local image-to-pixel-art conversion and pixel art upscaling | [Visit](https://pixelarthive.com/) |
 | <img src="images/svg.png" width="120" alt="SVGL"/> | **SVGL** | SVG logos library built with Sveltekit & Tailwind | [Visit](https://svgl.app/) |
 | <img src="images/animate-icons.png" width="120" alt="AnimateIcons"/> | **AnimateIcons** | Open-source library of animated icons with CSS, JS, and SVG implementations. Also a free React library of 281 animated icons built with Motion.dev. | [Visit](https://animateicons.in/) |
 | <img src="images/joy-icona.png" width="120" alt="Icona"/> | **Icona** | Icon library for everyone. 200+ collections, 50,000+ icons with built-in SVG editor. | [Visit](https://www.jolyui.dev/icona) |
